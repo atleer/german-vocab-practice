@@ -10,6 +10,9 @@ Build a flashcard application for practicing German vocabulary from a personal w
 
 This project is in early development. There is no build system, test framework, or application code yet — only raw vocabulary data and this documentation.
 
+# Do not read the raw data unless explicitly told to do so
+- It just consumes tokens unnecessarily
+
 ## Data
 
 `data/raw/from_notes_app.txt` contains ~2300 lines of German vocabulary in plain text, organized into sections:
